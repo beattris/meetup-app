@@ -1,0 +1,17 @@
+.detail {
+  text-align: center;
+}
+
+.detail img {
+  width: 100%;
+}
+
+.detail h1{
+    color: #77002e;
+}
+
+.detail p{
+    color: #77002e;
+    padding-bottom: 15px;
+    border-bottom: 2px solid #77002e;
+}
